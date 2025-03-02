@@ -8,6 +8,7 @@
     # Change the workdir.
     WORKDIR $APP
 
+
     # Install the requirements
     COPY requirements.txt $APP
 
